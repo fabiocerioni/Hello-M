@@ -222,7 +222,7 @@
                         "modif": "00000-00-00"
                         , "user_mod": ""
                         , "package": "$TMP"
-                        , "task": "SAPK-702ADINSRMSRV"
+                        , "task": "SAP-702ADINSRMSRV"
                         , "user_pack": "SAP"
                         , "date": "2012-08-15"
                     }, {
