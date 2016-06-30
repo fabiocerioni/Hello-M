@@ -204,21 +204,22 @@
                         , "user_pack": "SAPUSER"
                         , "date": "2005-12-09"
                     }, {
-                        "modif": "0000-00-00"
+                        "modif": "2018-00-00"
                         , "user_mod": ""
                         , "package": "/IG4S/DDICT"
                         , "task": "SAPK-603DFINEAAPPL"
                         , "user_pack": "EAAPPLUSER"
                         , "date": "2008-02-06"
                     }, {
-                        "modif": "0000-00-00"
+                        "modif": "2016-00-00"
                         , "user_mod": ""
                         , "package": "/IG4S/DDICT"
                         , "task": "SAPKCCG700"
                         , "user_pack": "DDIC"
                         , "date": "2005-12-03"
                     }, {
-                        "modif": "0000-00-00"
+                        
+                        "modif": "00000-00-00"
                         , "user_mod": ""
                         , "package": "$TMP"
                         , "task": "SAPK-702ADINSRMSRV"
